@@ -329,21 +329,9 @@ const FOUNDER = {
     portfolio: 'https://abhishekportofolio.netlify.app',
   },
 };
-const COFOUNDER = {
-  name: 'Jairo', role: 'Co-Founder & Global Partnerships', img: T_IMG + 'jairo.jpeg', initials: 'JR',
-  loc: 'International',
-  bio: 'Jairo leads Abhinova\'s international partnerships, global client relations, business networking, and strategic expansion. He plays a key role in helping businesses worldwide adopt innovative digital solutions while strengthening Abhinova\'s global presence.',
-  skills: ['Business Development', 'International Partnerships', 'Client Success', 'Growth Strategy', 'Market Expansion'],
-};
+
 const TEAM = [
-  { name: 'Himanshu Mishra', role: 'Technical Manager', img: T_IMG + 'Himanshu.jpeg', initials: 'HM',
-    loc: 'Prayagraj, India', grad: ['#8b5cf6', '#22d3ee'],
-    bio: 'Leads the technical direction of Abhinova — clean architecture, scalability, security, and high performance. He oversees development standards and mentors the engineering team.',
-    skills: ['System Architecture', 'Node.js', 'React', 'Database Design', 'Cloud Deployment', 'Technical Leadership'] },
-  { name: 'Faiz Khan', role: 'Full-Stack Developer & AI Builder', img: T_IMG + 'faiz.jpeg', initials: 'FK',
-    loc: 'India', grad: ['#22d3ee', '#8b5cf6'],
-    bio: 'Full-Stack Developer and AI Builder. Automates workflows and creates impactful products that combine reliable engineering with practical automation.',
-    skills: ['Node.js', 'React', 'Python', 'AI', 'Automation'] },
+  
   { name: 'Partha Halder', role: 'Senior Full Stack Developer', img: T_IMG + 'partha.jpeg', initials: 'PH',
     loc: 'Kolkata, India', grad: ['#22d3ee', '#8b5cf6'],
     bio: 'Full Stack AI-powered web developer building modern, responsive, intelligent web applications. Combines advanced development skills with AI-assisted workflows to ship scalable products fast.',
